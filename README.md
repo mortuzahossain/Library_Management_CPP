@@ -7,3 +7,4 @@
 -- Md. Mortuza Hossain Mim
 
 follow me on [facebook](http://www.facebook.com/md.mortuza.hossain/?)
+![alt text](https://github.com/mortuzahossain/Library_Management_CPP/qr.jpg")
